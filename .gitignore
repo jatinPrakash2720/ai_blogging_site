@@ -21,5 +21,38 @@ dist-ssr
 *.ntvs*
 *.njsproj
 *.sln
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Compiled source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+*.pyo
+*.pyd
+
+# Test output
+coverage/
+*.lcov
+
+# Dependency directories
+jspm_packages/
+
+# Misc
+*.tgz
+*.zip
+*.7z
+*.bak
+*.tmp
+*.swp
+*.swn
+*.swo
+*.orig
 *.sw?
 .env
